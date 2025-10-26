@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Tere, Git"
+echo "Tere git, kuidas läheb?"
